@@ -65,6 +65,10 @@ const Seo = ({ title, description, siteType, pageUrl, ogimage }) => {
             property: `twitter:image`,
             content: ogimage,
         },
+        {
+            name: `robots`,
+            content: `noindex`,
+        },
       ]}
     >
         <link rel="canonical" href={`https://rise-okinawa.com${pageUrl}`} />
