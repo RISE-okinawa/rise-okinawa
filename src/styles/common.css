@@ -15,7 +15,7 @@ header {
 .hero-message {
   display: inline-block;
   text-align: left;
-  text-shadow: 0 0 8px #000;
+  text-shadow: 0 0 24px #000;
   padding: 4%;
 }
 .hero-message h2 {
@@ -53,7 +53,11 @@ address {
 }
 @media screen and (max-width:768px) {
   .hero-container {
-    background: #00000024;
+    background: #794724ad;
+    line-height: 2;
+  }
+  .hero-message {
+    padding-bottom: 80%;
   }
 }
 @media screen and (min-width:769px) {

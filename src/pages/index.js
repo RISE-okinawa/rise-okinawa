@@ -28,8 +28,8 @@ export default function Home() {
           </div>
           <div className="hero-message">
             <h2>沖縄の発展のために<br/>私たちが貢献できること</h2>
-            <p>私たちの仕事は、役所に申請を出して許可を<br/>
-            もらうことが最終目的ではない。<br/>
+            <p>私たちの仕事は、役所に申請を出して<br/>
+            許可をもらうことが最終目的ではない。<br/>
             案件の先に沖縄の発展を意識して、<br/>
             熱心に、そして丁寧に取り組む。</p>
             <div className="preparing">
