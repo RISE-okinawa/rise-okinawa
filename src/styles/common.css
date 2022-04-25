@@ -57,7 +57,7 @@ address {
     line-height: 2;
   }
   .hero-message {
-    padding-bottom: 80%;
+    padding-bottom: 40%;
   }
 }
 @media screen and (min-width:769px) {
