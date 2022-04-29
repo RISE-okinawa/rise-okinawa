@@ -1,6 +1,9 @@
 * {
   color: #ffffff;
 }
+body {
+  position: relative;
+}
 a {
   color: #fff;
   text-decoration-color: #fff;
